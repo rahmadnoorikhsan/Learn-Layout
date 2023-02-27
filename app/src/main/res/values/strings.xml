@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Learn Layout</string>
+    <string name="content_text">iPhone 13 Pro Max. Pembaruan sistem kamera Pro yang terbesar. Layar Super Retina XDR dengan ProMotion untuk penggunaan yang terasa lebih cepat dan responsif. Chip A15 Bionic yang secepat kilat. Desain kokoh dan kekuatan baterai terbaik yang pernah ada di iPhone.</string>
+    <string name="content_specs_display">Layar Super Retina XDR dengan ProMotion.\n
+        Layar OLED sepenuhnya 6,7 inci (diagonal).\n
+        Resolusi 2778 x 1284 piksel pada 458 ppi.\n
+        Refresh rate adaptif hingga 120 Hz.\n
+        Layar HDR.\n
+        True Tone.\n
+        Warna luas (P3).\n
+        Haptic Touch.\n
+        Rasio kontras 2.000.000:1 (umum).\n
+        Kecerahan maks 1000 nit(umum), 1.200 nit(HDR).\n
+        Lapisan oleophobic anti sidik jari.</string>
+    <string name="content_specs_size">Tinggi 160,8 mm.\n
+        Lebar 78,1 mm.\n
+        Tebal 7,65 mm.\n
+        Berat 238 g.</string>
+    <string name="content_specs_battery">Baterai lithium-ion bawaan yang dapat diisi ulang.\n
+        Pengisian daya nirkabel MagSafe hingga 15 W.\n
+        Pengisian daya nirkabel Qi hingga 7,5 W.\n
+        Mengisi daya melalui USB ke sistem komputer atau adaptor daya.\n
+        Pengisian daya cepat dengan adaptor 20 W atau lebih tinggi.\n
+        Pemutaran video Hingga 28 jam.\n
+        Pemutaran video (streaming) Hingga 25 jam.\n
+        Pemutaran audio Hingga 95 jam.</string>
+    <string name="content_specs_chipset">Chip A15 Bionic.\n
+    CPU 6-core baru dengan 2 core performa dan 4 core efisiensi.\n
+    GPU 4-core baru.\n
+    Neural Engine 16-core baru.</string>
+    <string name="content_specs_camera">Sistem kamera Pro 12 MP: kamera Telefoto, Wide, dan Ultra Wide.\n
+    Telefoto: bukaan ƒ/2.8.\n
+    Wide: bukaan ƒ/1.5.\n
+    Ultra Wide: bukaan ƒ/1.8 dan bidang pandang 120°.\n
+    Zoom optik 3x memperbesar, zoom optik 2x memperkecil; rentang zoom optik 6x.\n
+    Zoom digital hingga 15x.\n
+    Potret mode Malam dimungkinkan oleh LiDAR Scanner.\n
+    Mode Potret dengan bokeh yang disempurnakan dan Depth Control.\n
+    Pencahayaan Potret dengan enam efek (Alami, Studio, Kontur, Panggung, Panggung Mono, High-Key Mono).\n
+    Penstabilan gambar optik ganda (Telefoto dan Wide).\n
+    Penstabilan gambar optik sensor bergerak (Wide).\n
+    Lensa enam elemen (Telefoto dan Ultra Wide); lensa tujuh elemen (Wide).\n
+    Flash True Tone dengan Slow Sync.\n
+    Panorama (hingga 63 MP).\n
+    Penutup lensa kristal safir.\n
+    100% Focus Pixels (Wide).\n
+    Mode Malam.\n
+    Deep Fusion.\n
+    Smart HDR 4.\n
+    Gaya Fotografi.\n
+    Fotografi makro.\n
+    Apple ProRAW.\n
+    Pengambilan foto dan Live Photo dengan rentang warna luas.\n
+    Koreksi lensa (Ultra Wide).\n
+    Koreksi mata merah yang disempurnakan.\n
+    Penanda lokasi foto.\n
+    Penstabilan gambar otomatis.\n
+    Mode beruntun.\n
+    Format gambar yang diambil: HEIF dan JPEG.</string>
+    <string name="stock">Stock 100</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Baterai</string>
+    <string name="chipset">Chipset</string>
+    <string name="camera">Kamera</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="store">Ibox Indonesia</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp 19.499.000</string>
+    <string name="dummy_photos">6 photos</string>
+</resources>
