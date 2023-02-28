@@ -1,5 +1,4 @@
-package com.ikhsan.learnlayout
-
+package com.ikhsan.learnlayout;
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
