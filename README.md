@@ -19,13 +19,11 @@ Berikut Arsitektur layout yang saya buat :
       </LinearLayout>
   </ScrollView>
   
-**Disini saya menggunakan Style dan Theme untuk mempermudah dalam mengatur Layout. Berikut penjelasan singkat Style dan Theme :**
-==
+Disini saya menggunakan Style dan Theme untuk mempermudah dalam mengatur Layout. Berikut penjelasan singkat Style dan Theme :
 Style
 --
-**Style merupakan sebuah kumpulan properti yang dibutuhkan untuk mendefinisikan bagaimana sebuah komponen view dan layar jendela (bisa activity maupun fragment) ditampilkan. Contoh properti ini adalah height, width, background_color.
-Pemusatan style cocok digunakan untuk mengumpulkan attribute yang berulang-ulang digunakan di banyak komponen. Sehingga jika ada perubahan, Anda cukup mengubahnya di satu tempat saja. Style terdefinisi dalam file xml sendiri. Anda bisa menemukannya di res → values → themes.xml.**
-==
+Style merupakan sebuah kumpulan properti yang dibutuhkan untuk mendefinisikan bagaimana sebuah komponen view dan layar jendela (bisa activity maupun fragment) ditampilkan. Contoh properti ini adalah height, width, background_color.
+Pemusatan style cocok digunakan untuk mengumpulkan attribute yang berulang-ulang digunakan di banyak komponen. Sehingga jika ada perubahan, Anda cukup mengubahnya di satu tempat saja. Style terdefinisi dalam file xml sendiri. Anda bisa menemukannya di res → values → themes.xml.
 Theme
 --
 Theme atau tema itu sendiri merupakan sebuah style yang diterapkan khusus untuk activity dan application pada berkas AndroidManifest.xml.kita mendefinisikannya dengan cara berikut ini:
